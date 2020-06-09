@@ -1,0 +1,17 @@
+# python3.7 
+# balance the celeba train set for facial attribute estimation
+
+All labels in the dataset: (162770, 40)
+Origianl: 162770
+Max Clone Limit: 81385.0
+32 minor classes.
+oversample length:74432
+MeanIR satisfied. 1.9997733185090834
+Processed the 1/32 minor class: 0 4736.181432247162 s
+oversample length:81376
+Exceed max clone. 81408
+Processed the 2/32 minor class: 1 523.3605527877808 s
+Exceed max clone. Exit 81408
+New: 244178 5260.046301364899 s
+Copied 81408/81408
+Upsampling Done.  /data2/xxx/tmp_data/celeba_mlros/annot/mlros_train_40_att_list.txt
